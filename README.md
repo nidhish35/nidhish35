@@ -27,7 +27,7 @@
 </p>
 <h3 align="left">Version Control System :</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
+<h3 align="left">Languages :</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nidhish35/nidhish35/assets/109467694/75a76564-6af8-4136-900d-bf4a4fae98fa" alt="git" width="40" height="40"/> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
