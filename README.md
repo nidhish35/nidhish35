@@ -1,4 +1,5 @@
-![OSFi](https://github.com/nidhish35/nidhish35/assets/109467694/57431168-e03d-4a26-bbde-730b3e2fac3e)
+![Black and Red Gradient Professional LinkedIn Banner (1)](https://github.com/nidhish35/nidhish35/assets/109467694/50a00be8-1cc3-4f36-a08f-6f1972c71b36)
+
 
 <h1 align="center">Hi 👋, I'm Nidhish Nalav</h1>
 <h3 align="center">An enthusiastic Indian Cloud Computing Geek</h3>
