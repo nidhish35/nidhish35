@@ -28,7 +28,9 @@
 <h3 align="left">Version Control System :</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/nidhish35/nidhish35/assets/109467694/75a76564-6af8-4136-900d-bf4a4fae98fa)
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="" alt="git" width="40" height="40"/> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
 
