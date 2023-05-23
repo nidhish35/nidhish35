@@ -1,4 +1,5 @@
-![gify](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FOSFi&psig=AOvVaw34QPJF9PfwFj_plbG5tHHe&ust=1684897055223000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCswYy5iv8CFQAAAAAdAAAAABAE)
+![OSFi](https://github.com/nidhish35/nidhish35/assets/109467694/57431168-e03d-4a26-bbde-730b3e2fac3e)
+
 <h1 align="center">Hi 👋, I'm Nidhish Nalav</h1>
 <h3 align="center">An enthusiastic Indian Cloud Computing Geek</h3>
 
