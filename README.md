@@ -33,7 +33,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" alt="git" width="40" height="40"/> </a>
-
+<h3 align="left">My Blogs</h3>
 <!-- BLOGPOSTS:START -->
  - 🚀 [About README  File](https://nidhishmalav.hashnode.dev/about-readme-file)
  - 🚀 [More About Git Branche’s](https://nidhishmalav.hashnode.dev/more-about-git-branches)
