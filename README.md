@@ -34,8 +34,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" alt="git" width="40" height="40"/> </a>
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START 
+ BLOG-POST-LIST:END 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
