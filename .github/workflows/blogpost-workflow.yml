@@ -19,4 +19,4 @@ jobs:
           comment_tag_name: "BLOGPOSTS"
           template: "$newline - $randomEmoji(🚀) [$title]($url)"
           commit_message: "recent posts section updated"
-          feed_list: "https://nidhishmalav.hashnode.dev//rss.xml"
+          feed_list: "https://nidhishmalav.hashnode.dev/"
