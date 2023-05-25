@@ -36,6 +36,7 @@
 
  Blog posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Linux Operating System](https://nidhishmalav.hashnode.dev/linux-operating-system)
  - 🚀 [README Cheat Sheet](https://nidhishmalav.hashnode.dev/readme-cheat-sheet)
  - 🚀 [About README  File](https://nidhishmalav.hashnode.dev/about-readme-file)
  - 🚀 [More About Git Branche’s](https://nidhishmalav.hashnode.dev/more-about-git-branches)
