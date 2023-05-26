@@ -36,11 +36,11 @@
 
  Blog posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [About Linux Shell](https://nidhishmalav.hashnode.dev/about-linux-shell)
  - 🚀 [EC2 With Linux](https://nidhishmalav.hashnode.dev/ec2-with-linux)
  - 🚀 [Linux Operating System](https://nidhishmalav.hashnode.dev/linux-operating-system)
  - 🚀 [README Cheat Sheet](https://nidhishmalav.hashnode.dev/readme-cheat-sheet)
- - 🚀 [About README  File](https://nidhishmalav.hashnode.dev/about-readme-file)
- - 🚀 [More About Git Branche’s](https://nidhishmalav.hashnode.dev/more-about-git-branches)<!-- BLOGPOSTS:END -->
+ - 🚀 [About README  File](https://nidhishmalav.hashnode.dev/about-readme-file)<!-- BLOGPOSTS:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
 
