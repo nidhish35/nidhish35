@@ -36,11 +36,11 @@
 
  Blog posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Linux File Permissions](https://nidhishmalav.hashnode.dev/linux-file-permissions)
  - 🚀 [Linux File System Hierarchy](https://nidhishmalav.hashnode.dev/linux-file-system-hierarchy)
  - 🚀 [About Linux Shell](https://nidhishmalav.hashnode.dev/about-linux-shell)
  - 🚀 [EC2 With Linux](https://nidhishmalav.hashnode.dev/ec2-with-linux)
- - 🚀 [Linux Operating System](https://nidhishmalav.hashnode.dev/linux-operating-system)
- - 🚀 [README Cheat Sheet](https://nidhishmalav.hashnode.dev/readme-cheat-sheet)<!-- BLOGPOSTS:END -->
+ - 🚀 [Linux Operating System](https://nidhishmalav.hashnode.dev/linux-operating-system)<!-- BLOGPOSTS:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
 
