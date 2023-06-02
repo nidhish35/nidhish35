@@ -36,11 +36,11 @@
 
  Blog posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Creating AWS IAM User](https://nidhishmalav.hashnode.dev/creating-aws-iam-user)
  - 🚀 [SCP Command for EC2 Instances](https://nidhishmalav.hashnode.dev/scp-command-for-ec2-instances)
  - 🚀 [Linux File Permissions](https://nidhishmalav.hashnode.dev/linux-file-permissions)
  - 🚀 [Linux File System Hierarchy](https://nidhishmalav.hashnode.dev/linux-file-system-hierarchy)
- - 🚀 [About Linux Shell](https://nidhishmalav.hashnode.dev/about-linux-shell)
- - 🚀 [EC2 With Linux](https://nidhishmalav.hashnode.dev/ec2-with-linux)<!-- BLOGPOSTS:END -->
+ - 🚀 [About Linux Shell](https://nidhishmalav.hashnode.dev/about-linux-shell)<!-- BLOGPOSTS:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
 
