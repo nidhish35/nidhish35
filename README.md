@@ -36,11 +36,11 @@
 
  Blog posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Elastic Block Store&lpar;EBS&rpar;: EC2](https://nidhishmalav.hashnode.dev/elastic-block-storeebs-ec2)
  - 🚀 [Networking Commands Linux](https://nidhishmalav.hashnode.dev/networking-commands-linux)
  - 🚀 [Cronjob Linux](https://nidhishmalav.hashnode.dev/cronjob-linux)
  - 🚀 [Important /etc Linux Files](https://nidhishmalav.hashnode.dev/important-etc-linux-files)
- - 🚀 [Creating AWS IAM User](https://nidhishmalav.hashnode.dev/creating-aws-iam-user)
- - 🚀 [SCP Command for EC2 Instances](https://nidhishmalav.hashnode.dev/scp-command-for-ec2-instances)<!-- BLOGPOSTS:END -->
+ - 🚀 [Creating AWS IAM User](https://nidhishmalav.hashnode.dev/creating-aws-iam-user)<!-- BLOGPOSTS:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
 
