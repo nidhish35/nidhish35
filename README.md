@@ -36,11 +36,11 @@
 
  Blog posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Linux Shell Scripting](https://nidhishmalav.hashnode.dev/linux-shell-scripting)
  - 🚀 [Images : EC2](https://nidhishmalav.hashnode.dev/images-ec2)
  - 🚀 [Elastic Block Store&lpar;EBS&rpar;: EC2](https://nidhishmalav.hashnode.dev/elastic-block-storeebs-ec2)
  - 🚀 [Networking Commands Linux](https://nidhishmalav.hashnode.dev/networking-commands-linux)
- - 🚀 [Cronjob Linux](https://nidhishmalav.hashnode.dev/cronjob-linux)
- - 🚀 [Important /etc Linux Files](https://nidhishmalav.hashnode.dev/important-etc-linux-files)<!-- BLOGPOSTS:END -->
+ - 🚀 [Cronjob Linux](https://nidhishmalav.hashnode.dev/cronjob-linux)<!-- BLOGPOSTS:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
 
