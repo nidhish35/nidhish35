@@ -36,11 +36,11 @@
 
  Blog posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Linux Shell Scripting : Logical Operator](https://nidhishmalav.hashnode.dev/linux-shell-scripting-logical-operator)
+ - 🚀 [Linux Shell Scripting : Conditions](https://nidhishmalav.hashnode.dev/linux-shell-scripting-conditions)
  - 🚀 [Shell Scripting : Password.sh](https://nidhishmalav.hashnode.dev/shell-scripting-passwordsh)
  - 🚀 [Elastic IP : EC2](https://nidhishmalav.hashnode.dev/elastic-ip-ec2)
- - 🚀 [Linux Shell Scripting](https://nidhishmalav.hashnode.dev/linux-shell-scripting)
- - 🚀 [Images : EC2](https://nidhishmalav.hashnode.dev/images-ec2)
- - 🚀 [Elastic Block Store&lpar;EBS&rpar;: EC2](https://nidhishmalav.hashnode.dev/elastic-block-storeebs-ec2)<!-- BLOGPOSTS:END -->
+ - 🚀 [Linux Shell Scripting](https://nidhishmalav.hashnode.dev/linux-shell-scripting)<!-- BLOGPOSTS:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
 
