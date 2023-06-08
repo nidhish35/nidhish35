@@ -36,11 +36,11 @@
 
  Blog posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Linux Shell Scripting: Case Statement](https://nidhishmalav.hashnode.dev/linux-shell-scripting-case-statement)
  - 🚀 [Linux Shell Scripting : Logical Operator](https://nidhishmalav.hashnode.dev/linux-shell-scripting-logical-operator)
  - 🚀 [Linux Shell Scripting : Conditions](https://nidhishmalav.hashnode.dev/linux-shell-scripting-conditions)
  - 🚀 [Shell Scripting : Password.sh](https://nidhishmalav.hashnode.dev/shell-scripting-passwordsh)
- - 🚀 [Elastic IP : EC2](https://nidhishmalav.hashnode.dev/elastic-ip-ec2)
- - 🚀 [Linux Shell Scripting](https://nidhishmalav.hashnode.dev/linux-shell-scripting)<!-- BLOGPOSTS:END -->
+ - 🚀 [Elastic IP : EC2](https://nidhishmalav.hashnode.dev/elastic-ip-ec2)<!-- BLOGPOSTS:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
 
