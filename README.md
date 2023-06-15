@@ -36,11 +36,11 @@
 
  Blog posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Python Data Types](https://nidhishmalav.hashnode.dev/python-data-types)
  - 🚀 [Intro to Python](https://nidhishmalav.hashnode.dev/intro-to-python)
  - 🚀 [Shell Script To Create IAM User Using CLI](https://nidhishmalav.hashnode.dev/shell-script-to-create-iam-user-using-cli)
  - 🚀 [Using AWS CLI to Connect AWS Account](https://nidhishmalav.hashnode.dev/using-aws-cli-to-connect-aws-account)
- - 🚀 [Linux Shell Scripting : LOOPS](https://nidhishmalav.hashnode.dev/linux-shell-scripting-loops)
- - 🚀 [Linux Shell Scripting : Functions and Variables](https://nidhishmalav.hashnode.dev/linux-shell-scripting-functions-and-variables)<!-- BLOGPOSTS:END -->
+ - 🚀 [Linux Shell Scripting : LOOPS](https://nidhishmalav.hashnode.dev/linux-shell-scripting-loops)<!-- BLOGPOSTS:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
 
