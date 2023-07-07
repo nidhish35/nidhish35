@@ -36,11 +36,11 @@
 
  Blog posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Kubernetes Architecture](https://nidhishmalav.hashnode.dev/kubernetes-architecture)
  - 🚀 [About Kubernetes](https://nidhishmalav.hashnode.dev/about-kubernetes)
  - 🚀 [Aws Ecs](https://nidhishmalav.hashnode.dev/aws-ecs)
  - 🚀 [Aws Ecr](https://nidhishmalav.hashnode.dev/aws-ecr)
- - 🚀 [Docker Container Commands](https://nidhishmalav.hashnode.dev/docker-container-commands)
- - 🚀 [About Docker](https://nidhishmalav.hashnode.dev/about-docker)<!-- BLOGPOSTS:END -->
+ - 🚀 [Docker Container Commands](https://nidhishmalav.hashnode.dev/docker-container-commands)<!-- BLOGPOSTS:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
 
