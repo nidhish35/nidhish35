@@ -36,11 +36,11 @@
 
  Blog posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Namespaces || Kubernetes](https://nidhishmalav.hashnode.dev/namespaces-kubernetes)
  - 🚀 [Aws Eks](https://nidhishmalav.hashnode.dev/aws-eks)
  - 🚀 [Kubernetes Architecture](https://nidhishmalav.hashnode.dev/kubernetes-architecture)
  - 🚀 [About Kubernetes](https://nidhishmalav.hashnode.dev/about-kubernetes)
- - 🚀 [Aws Ecs](https://nidhishmalav.hashnode.dev/aws-ecs)
- - 🚀 [Aws Ecr](https://nidhishmalav.hashnode.dev/aws-ecr)<!-- BLOGPOSTS:END -->
+ - 🚀 [Aws Ecs](https://nidhishmalav.hashnode.dev/aws-ecs)<!-- BLOGPOSTS:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
 
