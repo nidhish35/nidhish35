@@ -36,11 +36,11 @@
 
  Blog posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Datadog Setup](https://nidhishmalav.hashnode.dev/datadog-setup)
  - 🚀 [PODS || Deployments, Replicaset, Daemonset](https://nidhishmalav.hashnode.dev/pods-deployments-replicaset-daemonset)
  - 🚀 [Pods || Kubernetes](https://nidhishmalav.hashnode.dev/pods-kubernetes)
  - 🚀 [Namespaces || Kubernetes](https://nidhishmalav.hashnode.dev/namespaces-kubernetes)
- - 🚀 [Aws Eks](https://nidhishmalav.hashnode.dev/aws-eks)
- - 🚀 [Kubernetes Architecture](https://nidhishmalav.hashnode.dev/kubernetes-architecture)<!-- BLOGPOSTS:END -->
+ - 🚀 [Aws Eks](https://nidhishmalav.hashnode.dev/aws-eks)<!-- BLOGPOSTS:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhish35&show_icons=true&locale=en" alt="nidhish35" /></p>
 
