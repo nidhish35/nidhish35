@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nidhish Nalav</h1>
 <h3 align="center">An enthusiastic Indian Cloud Computing Geek</h3>
 
-- 🔭 I’m currently working on **Devops Project**
+- 🔭 I’m currently working on **Devops Project and myself**
 
 - 🌱 I’m currently learning **Devops , Kubernetes and Jenkins**
 
