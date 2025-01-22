@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on Tech [https://nidhishmalav.hashnode.dev/](https://nidhishmalav.hashnode.dev/)
 
-- 💬 Ask me about **AWS , Devops**
+- 💬 Ask me about **AWS , Devops, HTML, CSS**
 
 - 📫 How to reach me **malavnidhish35@gmail.com**
 
