@@ -1,6 +1,6 @@
 ![Black and Red Gradient Professional LinkedIn Banner](https://github.com/nidhish35/nidhish35/blob/e29cd797f921123f7febece1b2e22dfed60fdec7/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner-2.png)
 
-<h1 align="center">Hi 👋, I'm Nidhish Nalav</h1>
+<h1 align="center">Hi 👋, I'm Nidhish Malav</h1>
 <h3 align="center">Passionate about unifying DevOps efficiency with frontend innovation to deliver scalable, user-centric applications.</h3>
 
 - 🔭 I’m currently working on **Web-Dev Projects**
