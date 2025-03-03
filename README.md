@@ -1,4 +1,4 @@
-Black and Red Gradient Professional LinkedIn Banner-2.png
+[Black and Red Gradient Professional LinkedIn Banner-2.png](https://github.com/nidhish35/nidhish35/blob/e29cd797f921123f7febece1b2e22dfed60fdec7/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner-2.png)
 
 <h1 align="center">Hi 👋, I'm Nidhish Nalav</h1>
 <h3 align="center">An enthusiastic Indian Cloud Computing Geek</h3>
