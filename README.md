@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Web-Dev Projects**
 
-- 🌱 I’m currently learning **Devops , Frontend**
+- 🌱 I’m currently learning **Devops , MERN STACK**
 
 - 👨‍💻 I do Photography Too. [https://sites.google.com/view/nidhish-malav?usp=sharing](https://sites.google.com/view/nidhish-malav?usp=sharing)
 
 - 📝 I regularly write articles on Tech [https://nidhishmalav.hashnode.dev/](https://nidhishmalav.hashnode.dev/)
 
-- 💬 Ask me about **Azure, Devops, HTML, CSS, ReactJs, NextJs**
+- 💬 Ask me about **Azure, Devops, HTML, CSS, ReactJs, NextJs, NodeJs, Express**
 
 - 📫 How to reach me **malavnidhish35@gmail.com**
 
