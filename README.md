@@ -1,4 +1,4 @@
-![Nidhish_linkden_banner]([(https://github.com/nidhish35/nidhish35/blob/6cb2000a2fe95d93f9a35d2ab98a9292673d5ec5/Nidhish_linkden_banner.png)])
+![Nidhish_linkden_banner](https://github.com/nidhish35/nidhish35/blob/6cb2000a2fe95d93f9a35d2ab98a9292673d5ec5/Nidhish_linkden_banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Nidhish Malav</h1>
 <h3 align="center">Passionate about unifying DevOps efficiency with frontend innovation to deliver scalable, user-centric applications.</h3>
@@ -10,7 +10,7 @@
 - 👨‍💻 I do Photography Too. [https://sites.google.com/view/nidhish-malav?usp=sharing](https://sites.google.com/view/nidhish-malav?usp=sharing)
 
 - 📝 I regularly write articles on Tech [https://nidhishmalav.hashnode.dev/](https://nidhishmalav.hashnode.dev/)
-
+ā
 - 💬 Ask me about **Azure, Devops, HTML, CSS, ReactJs, NextJs, NodeJs, Express**
 
 - 📫 How to reach me **malavnidhish35@gmail.com**
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am a Fast Learner**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>¯
 <p align="left">
 <a href="https://linkedin.com/in/nidhishmalav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhishmalav" height="30" width="40" /></a>
 <a href="https://instagram.com/nidhish_malav__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nidhish_malav__" height="30" width="40" /></a>
